@@ -134,8 +134,8 @@ return (
       </div>
 
       <div class="sidebarOption">
-        <span class="material-icons"> bookmark_border </span>
-        <h2>Bookmarks</h2>
+        <span class="material-icons"> shopping_cart </span>
+        <h2>Shop</h2>
       </div>
 
       <div class="sidebarOption">
